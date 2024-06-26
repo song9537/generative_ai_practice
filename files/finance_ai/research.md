@@ -1,0 +1,1 @@
+Please use the above template to gather and analyze the latest news and market sentiment surrounding the stock. Include all necessary details and insights as outlined.
