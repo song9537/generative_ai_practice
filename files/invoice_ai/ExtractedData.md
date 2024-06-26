@@ -1,0 +1,22 @@
+```
+- contractor name: Tri-Maritime Bus Network Inc.
+- account number: Not available in the provided content
+- email address: Not available in the provided content
+- phone number: 1-800-575-1807
+- invoice_id: SUC2NT6L
+- date: 12/21/2023
+- invoice_total: $74.36
+- item_description: 
+  - Ticket from Halifax bus terminal to Moncton
+  - Transaction fee
+  - Fuel surcharge
+- uom: Not explicitly stated
+- quantity: 
+  - Ticket: 1
+  - Transaction fee: 1
+  - Fuel surcharge: 1
+- unit_cost: 
+  - Ticket: $53.25
+  - Transaction fee: $3.95
+  - Fuel surcharge: $7.46
+```
